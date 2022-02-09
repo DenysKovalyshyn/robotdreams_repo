@@ -10,7 +10,7 @@ student:
     Street: Kulparkivska
     Building: 1
     Flat: 1
-  Merried: True,
+  Merried: False,
   Kids: true,
   Kids quantity: "2",
   Kids names: [Igor, Iryna],

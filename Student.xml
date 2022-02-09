@@ -11,7 +11,7 @@
         <Building>1</Building>>
         <Flat>1</Flat>>
     </Address>
-    <Merried value = "yes"/>,
+    <Merried value = "no"/>,
     <Kids value = "yes"/>
     <KidsQuantity value= "2"/>
     <KidsNames son = "Igor" dauther = "Iryna"/>
