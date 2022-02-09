@@ -1,0 +1,28 @@
+student:
+  First name: Anna
+  Last name: Shevchenko
+  Age: 25
+  Nationality: Ukr
+  SSN: 123456789
+  Address:
+    Country: Ukraine
+    City: Lviv,
+    Street: Kulparkivska
+    Building: 1
+    Flat: 1
+  Merried: False,
+  Kids: true,
+  Kids quantity: "2",
+  Kids names: [Igor, Iryna],
+  Pets: true,
+  Pets quantity: 2,
+  Pets names:
+   - dog: "Joy"
+   - cat: "Mustafa"
+  Short info: >
+    Anna starts new position
+    as QA Engineer in 2020
+  Future plans: |
+    Complete AQA courses
+    Improve English
+    Travel to Tenerife

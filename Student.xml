@@ -1,0 +1,21 @@
+<student>
+    <FirstName>Anna</FirstName>
+    <LastName>Shevchenko</LastName>
+    <Age>25</Age>>,
+    <Nationality>Ukr</Nationality>
+    <SSN>123456789</SSN>
+    <Address>
+        <Country>Ukraine</Country>
+        <City>Lviv</City>>
+        <Street>Kulparkivska</Street>>
+        <Building>1</Building>>
+        <Flat>1</Flat>>
+    </Address>
+    <Merried value = "no"/>,
+    <Kids value = "yes"/>
+    <KidsQuantity value= "2"/>
+    <KidsNames son = "Igor" dauther = "Iryna"/>
+    <Pets value="true"/>
+    <PetsQuantity value = "2"/>
+    <PetsNames dog = "Joy" cat = "Mustafa"/>
+</student>
