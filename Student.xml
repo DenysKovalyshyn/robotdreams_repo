@@ -2,7 +2,7 @@
     <FirstName>Anna</FirstName>
     <LastName>Shevchenko</LastName>
     <Age>25</Age>>,
-    <Nationality>Ukraine</Nationality>
+    <Nationality>Ukr</Nationality>
     <SSN>123456789</SSN>
     <Address>
         <Country>Ukraine</Country>
